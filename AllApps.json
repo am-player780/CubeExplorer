@@ -1,5 +1,14 @@
 [
   {
+    "name": "Snes8x",
+    "version": "1.16.0.0",
+    "category": "Utilities",
+    "description": "Snes8x is a Super Nintendo emulator for Windows 8 and Windows RT. The app is based on Snes9x, a free and portable SNES emulator.",
+    "logo": "https://dn721903.ca.archive.org/0/items/snes8x-for-win-8/Logo.png",
+    "screenshots": [],
+    "downloadLink": "https://ia801606.us.archive.org/view_archive.php?archive=/6/items/snes8x-for-win-8/34438m.k.Snes8x_1.16.0.0_arm_and_x86_and_x64__bpsy3zgmrv95p.zip&file=34438m.k.Snes8x_1.16.0.0_x64__bpsy3zgmrv95p.Appx"
+  },
+  {
     "name": "Angry Birds Space",
     "version": "1.6.1.0",
     "category": "Games",
