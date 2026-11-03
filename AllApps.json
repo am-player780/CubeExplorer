@@ -151,5 +151,19 @@
     "logo": "https://ia803106.us.archive.org/21/items/talking-tom-for-windows-8.1-10_202508/Talking_Tom_Rare_Icon.png",
     "screenshots": [],
     "downloadLink": "https://ia803106.us.archive.org/view_archive.php?archive=/21/items/talking-tom-for-windows-8.1-10_202508/Talking%20Tom%20for%20Windows%208.1%2010.7z&file=TalkingTom.Win81_3.1.0.0_x86.appx"
+  },
+  {
+    "name": "Windows 8.1 Retiled",
+    "version": "Unknown",
+    "category": "Microsoft Apps",
+    "description": "Windows 8.1 Retiled bug fix appx",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4hrLC5dEJFXEgVsIEg--MRa9-ghlRVtkT2Qec29Oyaw&s=10",
+    "screenshots": [
+      "https://ia801008.us.archive.org/13/items/windows-8.1-retiled/FreshPaint-32-2025.08.11-11.20.12.png",
+      "https://ia801008.us.archive.org/13/items/windows-8.1-retiled/FreshPaint-33-2025.08.11-11.20.48.png",
+      "https://ia601008.us.archive.org/13/items/windows-8.1-retiled/FreshPaint-34-2025.08.11-11.21.04.png",
+      "https://ia601008.us.archive.org/13/items/windows-8.1-retiled/FreshPaint-36-2025.08.11-11.20.31.png"
+    ],
+    "downloadLink": "https://ia601008.us.archive.org/13/items/windows-8.1-retiled/Windows%208.1%20Retiled.zip"
   }
 ]
