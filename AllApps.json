@@ -436,5 +436,56 @@
         "architecture": "ARM, x86"
       }
     }
+  },
+  {
+    "name": "Cut the Rope 2",
+    "version": "1.0.0.46",
+    "category": "Games",
+    "description": "SWEET! Cut the Rope 2 has arrived and you can enjoy the full adventure for FREE!\n\nCut the Rope 2 brings fresh challenges and unanticipated obstacles to the candy crunching, physics-based phenomenon that has delighted millions of players around the world! If you like Cut the Rope, you’ll love Cut the Rope 2!\n\nWith new characters, fresh gameplay elements, and, of course, Om Nom, candy collecting has never been so fun! Complete tricky missions to earn medals, advance in the game and access special levels. Play with your friends to see who can get the highest score, or tackle the puzzles on your own!\n\nIn his unexpected adventure, Om Nom breaks out of his box and travels through lush forests, busy cities, junkyards and underground tunnels, all in pursuit of one goal – CANDY! Along the way, he encounters the Nommies, the cutest candy collecting helpers a little green monster could wish for!\n\nMEET OM NOM’S NEW FRIENDS, THE NOMMIES!\n\n• Roto can carry Om Nom to the best candy catching locations\n• Lick can make small bridges with his tongue to help Om Nom reach his goal\n• Blue can lift Om Nom to new levels of candy hunting fun\n• Toss can throw objects, including candy\n• Boo can scare Om Nom to jump to new heights\n• Snailbrow bravely rolls on walls and ceilings and pushes candies around, like a boss\n• Ginger can burn away obstacles between Om Nom and the candy\n\nDon’t waste any time - exciting surprises await! Help Om Nom find his way home...out of the forest, through a pond and a junkyard, into the city and beyond!\n\nAlready a fan?\nLIKE US: http://facebook.com/cuttherope\nFOLLOW US: http://twitter.com/cut_the_rope\nWATCH US: http://youtube.com/zeptolab\nVISIT US: http://cuttherope.net/cuttherope2",
+    "logo": "https://archive.org/download/cut-the-rope-2-for-win-8/Square310x310Logo.scale-180.jpg",
+    "screenshots": [
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.7602.13510798882929396.d004e22d-e2ba-4388-8758-b925629b1dc0.0794dd92-7c1b-4f71-aa6a-824f9c231a8c?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.27127.13510798882929396.5bf62663-c2ce-481c-95bc-036e063e532d.95002a41-67b0-4070-8326-6a3d39c6c80d?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.26878.13510798882929396.988f834b-1214-4cc3-80eb-951b09190d03.912e38e0-5fd5-4bb7-aa26-4dd5a46b29e1?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.48732.13510798882929396.a8e5a864-dda2-4858-9028-010e077077a3.d5e97ba2-a80f-4ce8-9026-61135c5be8dc?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.59290.13510798882929396.bdffb350-194a-4d03-9b74-8cdb2b902cbd.d4b3f5b9-e3ad-43ed-816a-483aeb4a7557?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg"
+    ],
+    "downloadLink": "https://ia903207.us.archive.org/view_archive.php?archive=/18/items/cut-the-rope-2-for-win-8/AppxBundleApp/ZeptoLabUKLimited.CuttheRope2_2016.609.1315.0_neutral_~_sq9zxnwrk84pj.zip&file=ZeptoLabUKLimited.CuttheRope2_2016.609.1315.0_neutral_~_sq9zxnwrk84pj.AppxBundle",
+    "whatsNew": "Readjusted Roto's propeller to withstand high winds.",
+    "features": [
+      "ALL NEW LOCATIONS TO EXPLORE! Travel through an interactive map to discover new locations filled with candy collecting, rope cutting action.  ALL NEW CHARACTERS TO MEET! Find 7 new characters, the Nommies, to help you on your unexpected journey.  ALL NEW HATS TO BRAG ABOUT! Customize Om Nom, choose your favorite candy and select your finger traces.  ALL NEW ADVENTURES FOR OM NOM! Experience completely new graphics, sound and gameplay elements, including the ability to move Om Nom.  ALL NEW MISSIONS! Collect the perfect number of stars and strategically gather fruit to complete the mission in each level."
+    ],
+    "thisAppCan": [
+      "Microsoft.storeFilter.core.notSupported_8wekyb3d8bbwe",
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks"
+    ],
+    "additionalInfo": {
+      "publishedBy": "ZeptoLab UK Limited",
+      "copyright": "© 2015 ZeptoLab UK Limited",
+      "developedBy": "ZeptoLab UK Limited",
+      "releaseDate": "4/15/2015",
+      "approximateSize": "94.27 MB",
+      "ageRating": "Everyone",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows devices.",
+      "accessibility": "The product developer believes this product meets accessibility requirements, making it easier for everyone to use.",
+      "languagesSupported": "Deutsch (Deutschland) English (United States) Español (España, Alfabetización Internacional) Français (France) Italiano (Italia) 日本語 (日本) Nederlands (Nederland) Português (Brasil) Русский (Россия) Türkçe (Türkiye)",
+      "publisherInfo": "Cut the Rope 2 website Cut the Rope 2 support",
+      "additionalTerms": "Cut the Rope 2 privacy policy Terms of transaction",
+      "seizureWarnings": "Photosensitive seizure warning",
+      "reportThisProduct": "Report this product for violating Microsoft Store Policy  Report this product for illegal content",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with all applicable laws"
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8 Mobile, Windows 8.1",
+        "architecture": "x64, x86, ARM, ARM64"
+      },
+      "recommended": {
+        "os": "Windows 8 Mobile, Windows 8.1",
+        "architecture": "ARM, x86, x64, ARM64"
+      }
+    }
   }
 ]
