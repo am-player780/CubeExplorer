@@ -271,7 +271,41 @@
       "https://ia800701.us.archive.org/view_archive.php?archive=/22/items/rayman-jungle-run-for-win-8/MSSTOREsshots_RMANJUNGLERUN.zip&file=apps.59418.9007199266244420.7fcbebd0-0166-475d-b49f-da0232a88ff1.jpeg",
       "https://ia800701.us.archive.org/view_archive.php?archive=/22/items/rayman-jungle-run-for-win-8/MSSTOREsshots_RMANJUNGLERUN.zip&file=apps.63862.9007199266244420.7668299f-ea07-4924-9c76-86e70945c3b8.jpeg"
     ],
-    "downloadLink": "https://ia800701.us.archive.org/view_archive.php?archive=/22/items/rayman-jungle-run-for-win-8/AppxApp/UbisoftEntertainment.RaymanJungleRun_1.2.0.88_x86__dbgk1hhpxymar.zip&file=UbisoftEntertainment.RaymanJungleRun_1.2.0.88_x86__dbgk1hhpxymar.Appx"
+    "downloadLink": "https://ia800701.us.archive.org/view_archive.php?archive=/22/items/rayman-jungle-run-for-win-8/AppxApp/UbisoftEntertainment.RaymanJungleRun_1.2.0.88_x86__dbgk1hhpxymar.zip&file=UbisoftEntertainment.RaymanJungleRun_1.2.0.88_x86__dbgk1hhpxymar.Appx",
+    "whatsNew": "Because we always want more people running with Rayman, the game is now compatible with computers equipped with ATOM processors!",
+    "features": [
+      "Join Rayman in 70 gorgeous levels and try to bring as many lums as you can!  New powers to unlock as you progress: jump, punch, fly, run on wall...  7 worlds to discover each with their own atmosphere and gameplay  Unlock the challenging land of the livid deads levels if you have the skills Play the game as Rayman or Globox!"
+    ],
+    "thisAppCan": [
+      "Access your Internet connection",
+      "Microsoft.storeFilter.core.notSupported_8wekyb3d8bbwe"
+    ],
+    "additionalInfo": {
+      "publishedBy": "Ubisoft Entertainment‬",
+      "copyright": "© 2013 Ubisoft Entertainment. All Rights Reserved.",
+      "developedBy": "Ubisoft Entertainment‬",
+      "releaseDate": "3/7/2013",
+      "approximateSize": "54.96 MB",
+      "ageRating": "7+",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows 10 devices. (Windows 8 AND 8.1  Supported)",
+      "accessibility": "The product developer believes this product meets accessibility requirements, making it easier for everyone to use.",
+      "languagesSupported": "English (United States) Français (France) Português (Brasil) 日本語 (日本) Deutsch (Deutschland) Italiano (Italia) Español (España, Alfabetización Internacional) 中文(中国)",
+      "publisherInfo": "Rayman Jungle Run website Rayman Jungle Run support",
+      "additionalTerms": "Rayman Jungle Run privacy policy Terms of transaction",
+      "seizureWarnings": "Photosensitive seizure warning",
+      "reportThisProduct": "Report this product for violating Microsoft Store Policy  Report this product for illegal content",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with all applicable laws"
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8",
+        "architecture": "x86, ARM"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "architecture": "ARM, x86"
+      }
+    }
   },
   {
     "name": "DuckTales Remastered",
