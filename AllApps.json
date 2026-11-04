@@ -187,7 +187,40 @@
       "https://ia800103.us.archive.org/view_archive.php?archive=/25/items/jetpack-joyride-for-win-8/MSSTOREsshots_JJOYRIDE.zip&file=apps.34118.9007199266251579.1c635c2e-b7aa-44d9-ad64-b858ed1bfb31.jpeg",
       "https://ia600103.us.archive.org/view_archive.php?archive=/25/items/jetpack-joyride-for-win-8/MSSTOREsshots_JJOYRIDE.zip&file=apps.38417.9007199266251579.0391df69-96cb-47c3-ad48-eeaec518d4c2.jpeg"
     ],
-    "downloadLink": "https://ia800103.us.archive.org/view_archive.php?archive=/25/items/jetpack-joyride-for-win-8/AppxApp/HalfbrickStudiosPtyLtd.JetpackJoyride_1.0.3.68_x86__w77bc8x1h5kya.zip&file=HalfbrickStudiosPtyLtd.JetpackJoyride_1.0.3.68_x86__w77bc8x1h5kya.Appx"
+    "downloadLink": "https://ia800103.us.archive.org/view_archive.php?archive=/25/items/jetpack-joyride-for-win-8/AppxApp/HalfbrickStudiosPtyLtd.JetpackJoyride_1.0.3.68_x86__w77bc8x1h5kya.zip&file=HalfbrickStudiosPtyLtd.JetpackJoyride_1.0.3.68_x86__w77bc8x1h5kya.Appx",
+    "whatsNew": "This is a minor update to improve performance across a wide range of devices. We also now let you use the space bar or up arrow to control gameplay, and have resolved some bugs. Finally we've made the game available in more countries and regions.\n\nWe’d like to thank all our fans for their amazing support!",
+    "features": [
+      "Huge arsenal of jetpacks and vehicles to unlock  Equip gadgets for special abilities in The Stash  Dynamic missions, objectives and rewards  Compete with friends and aim for the highest scores  Unlock achievements and share your skills online"
+    ],
+    "thisAppCan": [
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Microsoft.storeFilter.core.notSupported_8wekyb3d8bbwe"
+    ],
+    "additionalInfo": {
+      "publishedBy": "Halfbrick Studios Pty Ltd",
+      "copyright": "Copyright and Trademark 2012, Halfbrick Studios Pty Ltd",
+      "developedBy": "Halfbrick Studios Pty Ltd",
+      "releaseDate": "10/22/2012",
+      "approximateSize": "36.72 MB",
+      "ageRating": "7+",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows 10&8.1&8 devices.",
+      "accessibility": "The product developer believes this product meets accessibility requirements, making it easier for everyone to use.",
+      "languagesSupported": "English (United States) Français (France) Italiano (Italia) Deutsch (Deutschland) Español (España, Alfabetización Internacional) 中文(中国) 日本語 (日本) 한국어(대한민국)",
+      "publisherInfo": "Jetpack Joyride website Jetpack Joyride support",
+      "additionalTerms": "Jetpack Joyride privacy policy Terms of transaction",
+      "seizureWarnings": "Photosensitive seizure warning",
+      "reportThisProduct": "Report this product for violating Microsoft Store Policy  Report this product for illegal content",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with all applicable laws"
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8"
+      },
+      "recommended": {
+        "os": "Windows 10"
+      }
+    }
   },
   {
     "name": "Rayman Jungle Run",
