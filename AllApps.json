@@ -141,7 +141,41 @@
       "https://ia800403.us.archive.org/view_archive.php?archive=/0/items/pac-man-championship-edition-dx-plus-for-win-8/PACMANCEDXWIN8_MSSTOREscreenshots.zip&file=apps.60728.9007199266456944.4eef290b-d5f7-42c5-b610-8ebb9364a719.jpg",
       "https://ia800403.us.archive.org/view_archive.php?archive=/0/items/pac-man-championship-edition-dx-plus-for-win-8/PACMANCEDXWIN8_MSSTOREscreenshots.zip&file=apps.65459.9007199266456944.676e0372-4b8e-455f-9fb4-198b33cdb640.jpg"
     ],
-    "downloadLink": "https://ia600403.us.archive.org/view_archive.php?archive=/0/items/pac-man-championship-edition-dx-plus-for-win-8/AppXApp/NAMCOBANDAIGamesInc.PAC-MANChampionshipEditionDX_1.0.1.2_x86__gdy2aq6ez762w.zip&file=NAMCOBANDAIGamesInc.PAC-MANChampionshipEditionDX_1.0.1.2_x86__gdy2aq6ez762w.Appx"
+    "downloadLink": "https://ia600403.us.archive.org/view_archive.php?archive=/0/items/pac-man-championship-edition-dx-plus-for-win-8/AppXApp/NAMCOBANDAIGamesInc.PAC-MANChampionshipEditionDX_1.0.1.2_x86__gdy2aq6ez762w.zip&file=NAMCOBANDAIGamesInc.PAC-MANChampionshipEditionDX_1.0.1.2_x86__gdy2aq6ez762w.Appx",
+    "whatsNew": "UPDATES\nRelease 4:\nFacebook Integration -- Bug fixed\n\nRelease 3:\n・Release of Premium DLC\n・Implementation of Medals (New Reward)\n・Implementation of Comparison with Friends Screen\n・Implementation of Personal Progress Report Screen\n・Implementation of Facebook Posting Feature\n・Modification of Main Menu Layout\n・Implementation of In-Game Sign In/Sign Out Feature\n・Addition of Default Settings Screen for Controls\n・Set BGM Name\n\nRelease2:\nMulti-language support.\n\nRelease1:\nNow compatible with Windows RT.",
+    "features": [
+      "Pac-Man Championship Edition DX is an official follow-up to the original Pac-Man game that took the world by storm back in the eighties! The universally acclaimed game is now available from Windows Store!"
+    ],
+    "thisAppCan": [
+      "Access your Internet connection",
+      "Access your home or work networks",
+      "Microsoft.storeFilter.core.notSupported_8wekyb3d8bbwe"
+    ],
+    "additionalInfo": {
+      "publishedBy": "BANDAI NAMCO Entertainment Inc.",
+      "copyright": "Copyright©2010 NAMCO BANDAI Games Inc.",
+      "developedBy": "BANDAI NAMCO Entertainment Inc.",
+      "releaseDate": "12/26/2012",
+      "approximateSize": "494.59 MB",
+      "ageRating": "Everyone",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows devices.",
+      "languagesSupported": "English (United States) 日本語 (日本) Français (France) Italiano (Italia) Deutsch (Deutschland) Español (España, Alfabetización Internacional) 中文(中国) 中文(台灣)",
+      "publisherInfo": "PAC-MAN Championship Edition DX+ website PAC-MAN Championship Edition DX+ support",
+      "additionalTerms": "PAC-MAN Championship Edition DX+ privacy policy Terms of transaction",
+      "seizureWarnings": "Photosensitive seizure warning",
+      "reportThisProduct": "Report this product for violating Microsoft Store Policy  Report this product for illegal content",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with all applicable laws"
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8",
+        "architecture": "x86, ARM"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "architecture": "ARM, x86"
+      }
+    }
   },
   {
     "name": "Talking Tom Cat",
