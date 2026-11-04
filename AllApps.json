@@ -23,8 +23,49 @@
     "category": "Games",
     "description": "Slice across the screen to deliciously slash and splatter fruit like a true ninja warrior. Be careful of bombs – they are explosive to touch and will put a swift end to your juicy adventure! Fruit Ninja features Classic, Zen and the amazing Arcade mode! Your success will also please the wise ninja Sensei, who will accompany your journey with wise words and fun fruit facts. Fruit Ninja is the messiest and most satisfying fruit game ever!\n\n****\n\nIMPORTANT NOTICE TO PARENTS\n\nThis game may contain:\n\n- The ability to make optional in-app purchases using real money.\n- Links to external social networking sites intended for users over the age of 13.\n- Direct links to the internet which may open the default web browser on your device.\n\nPrivacy Policy: http://www.halfbrick.com/pp\nTerms of Service: http://www.halfbrick.com/tos",
     "logo": "https://dn721808.ca.archive.org/0/items/fruit-ninja-for-win-8/Logo.png",
-    "screenshots": [],
-    "downloadLink": "https://ia600502.us.archive.org/view_archive.php?archive=/32/items/fruit-ninja-for-win-8/AppxApp/HalfbrickStudiosPtyLtd.FruitNinja_1.8.1.66_x86__w77bc8x1h5kya.zip&file=HalfbrickStudiosPtyLtd.FruitNinja_1.8.1.66_x86__w77bc8x1h5kya.Appx"
+    "screenshots": [
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.12203.9007199266251580.0c76de68-0220-4031-99e2-5f6f98e18980.17581023-21d9-4b84-aac7-a06bba9ee1cc?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.9737.9007199266251580.0964afde-d7af-4fab-90e8-8e2738001de6.d86f1b71-593b-4368-ba52-52acbe4b4615?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.34978.9007199266251580.22744d13-9050-4d96-bd08-fd04a836bee1.90c8fce7-57f8-4e1e-a1fd-fcd73d8f3f17?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.46707.9007199266251580.16eea7e9-eaf4-4cc4-817f-13da08bd8f8b.273753eb-e171-41a4-97ff-ba992a36dc72?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.27473.9007199266251580.27b18f36-692b-4aae-b401-6db2b6fcce39.1af147c4-a7d5-4ba5-9ba7-348dfc61f5d4?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
+      "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.14361.9007199266251580.0ae7334f-c737-42c5-8b9c-1d1da03b52b2.870aaefe-b264-44f2-b24a-14878f045d0f?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg"
+    ],
+    "downloadLink": "https://ia600502.us.archive.org/view_archive.php?archive=/32/items/fruit-ninja-for-win-8/AppxApp/HalfbrickStudiosPtyLtd.FruitNinja_1.8.1.66_x86__w77bc8x1h5kya.zip&file=HalfbrickStudiosPtyLtd.FruitNinja_1.8.1.66_x86__w77bc8x1h5kya.Appx",
+    "whatsNew": "This small update is to improve performance across a wide range of devices. We've also opened up the game in new regions and addressed a few small issues. Thanks for your continued support!",
+    "features": [
+      "Carve, splatter, and slash your way through piles of colorful fruit in this juicy arcade action game Choose from three different game modes to play through: Classic, Arcade, and Zen Customize your experience with unlockable weapons and backgrounds Keep your eyes peeled for three different game-changing power-ups"
+    ],
+    "thisAppCan": [
+      "Access your Internet connection",
+      "Access your home or work networks"
+    ],
+    "additionalInfo": {
+      "publishedBy": "Halfbrick Studios Pty Ltd",
+      "copyright": "Copyright 2012 Halfbrick Studios Pty Ltd",
+      "developedBy": "Halfbrick Studios Pty Ltd",
+      "releaseDate": "5/24/2012",
+      "approximateSize": "78.27 MB",
+      "ageRating": "Everyone",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows devices.",
+      "accessibility": "The product developer believes this product meets accessibility requirements, making it easier for everyone to use.",
+      "languagesSupported": "English (United States) Français (France) Italiano (Italia) Deutsch (Deutschland) Español (España, Alfabetización Internacional) 中文(中国) 日本語 (日本) 한국어(대한민국)",
+      "publisherInfo": "Fruit Ninja website Fruit Ninja support",
+      "additionalTerms": "Fruit Ninja privacy policy Terms of transaction",
+      "seizureWarnings": "Photosensitive seizure warning",
+      "reportThisProduct": "Report this product for violating Microsoft Store Policy  Report this product for illegal content",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with all applicable laws"
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8",
+        "architecture": "x86, ARM"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "architecture": "ARM, x86"
+      }
+    }
   },
   {
     "name": "Cut The Rope",
@@ -287,7 +328,7 @@
       "releaseDate": "3/7/2013",
       "approximateSize": "54.96 MB",
       "ageRating": "7+",
-      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows 10 devices. (Windows 8 AND 8.1 Supported)",
+      "installation": "Get this app while signed in to your Microsoft account and install on up to ten Windows 10 devices. (Windows 8 AND 8.1  Supported)",
       "accessibility": "The product developer believes this product meets accessibility requirements, making it easier for everyone to use.",
       "languagesSupported": "English (United States) Français (France) Português (Brasil) 日本語 (日本) Deutsch (Deutschland) Italiano (Italia) Español (España, Alfabetización Internacional) 中文(中国)",
       "publisherInfo": "Rayman Jungle Run website Rayman Jungle Run support",
