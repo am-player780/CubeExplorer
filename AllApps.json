@@ -496,5 +496,24 @@
     "logo": "https://archive.org/download/Wheres-My-Water-2-Appx/Logo.png",
     "screenshots": [],
     "downloadLink": "https://ia903104.us.archive.org/view_archive.php?archive=/3/items/Wheres-My-Water-2-Appx/Where%27s%20My%20Water%202%20v1.3.0.8%20%28APPX%29.zip&file=Disney.WheresMyWater2_1.3.0.8_x86__6rarf9sa4v8jt.Appx"
+  },
+  {
+    "name": "Rayman Fiesta Run Preload Edition",
+    "version": "2014.408.1427.121",
+    "category": "Games",
+    "description": "Join legendary platforming hero Rayman for a new adventure on your favorite mobile device!\n\nIf you enjoyed Rayman Jungle Run, winner of the App Store’s BEST of 2012, you will love Rayman Fiesta Run and its new wacky Fiesta world! Lunge for cocktail umbrellas, leap on limes and punch those piñatas…the sky’s the limit!\n\nPARTY ALL NIGHT LONG\n* More than 75 levels welcome you for the Fiesta!\n* Bounce on sausages and make your way through 4 new festive worlds\n* Beat all 3 new epic bosses to reach the dreaded Land of the Livid Dead Island!\n* Collect Lums to get awesome rewards and power-ups\n\nDISCOVER RAYMAN'S AMAZING NEW POWERS\n* Rayman could jump, fly, punch and run up the walls…\n* …he can now slide, swim or shrink on the fly into a tiny hero\n* Unleash the power of the Super Punch!\n\nBEWARE OF THE INVASION!\n* Play all the levels you thought you knew in a totally different way\n* Avoid new traps and defeat even fiercer enemies\n* Get ready for more great challenges!\n\nENJOY GORGEOUS GRAPHICS\n* Rayman Jungle Run was pretty… Rayman Fiesta Run looks absolutely delicious!\n* Immerse yourself into the Fiesta thanks to the increased depth of field\n* And if you like great lightings, Rayman has put a brand new disco ball up for you!\n\nCHALLENGE YOUR FRIENDS\nShare your activities, post your achievements on Facebook, and follow your friends on the world map.\n\nThis game can be downloaded over the air, no Wi-Fi needed to play!",
+    "logo": "https://archive.org/download/ubisoft-entertainment.-rayman-fiesta-run-preload-edition-2014.408.1427.121-neutral-dbgk-1hhpxymar/apps.23052.9007199266403788.2d270d99-9330-49d9-aa7c-8d06e0b2ee17.png",
+    "screenshots": [],
+    "downloadLink": "https://ia600107.us.archive.org/view_archive.php?archive=/24/items/ubisoft-entertainment.-rayman-fiesta-run-preload-edition-2014.408.1427.121-neutral-dbgk-1hhpxymar/UbisoftEntertainment.RaymanFiestaRunPreloadEdition_2014.408.1427.121_neutral_~_dbgk1hhpxymar.rar&file=UbisoftEntertainment.RaymanFiestaRunPreloadEdition_2014.408.1427.121_neutral_~_dbgk1hhpxymar.AppxBundle",
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8",
+        "architecture": "x86, ARM, ARM64, x64"
+      },
+      "recommended": {
+        "os": "Windows 8.1",
+        "architecture": "x64, x86, ARM, ARM64"
+      }
+    }
   }
 ]
