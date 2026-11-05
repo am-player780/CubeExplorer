@@ -487,5 +487,14 @@
         "architecture": "ARM, x86, x64, ARM64"
       }
     }
+  },
+  {
+    "name": "Where's My Water",
+    "version": "1.3.0.8",
+    "category": "Games",
+    "description": "The last version of Where's My Water 2, by Disney Mobile, that was released on PC, before the games' delisting.\n\nWhile playable on Windows 10 and 11, the game shortly crashes because of a Windows NT Fatal Error. As such, in order to play it, you must be running Windows 8, 8.1 or a early version of Windows 10.\n\nIt is theoretically possible to mod the \"ntdll.dll\" file, that is needed from Windows 8 - early Windows 10, into the game files, so the game uses that DLL instead of Windows 10 or 11's. However, you would then need to bypass or spoof the hash and integrity checks so the game actually installs.",
+    "logo": "https://archive.org/download/Wheres-My-Water-2-Appx/Logo.png",
+    "screenshots": [],
+    "downloadLink": "https://ia903104.us.archive.org/view_archive.php?archive=/3/items/Wheres-My-Water-2-Appx/Where%27s%20My%20Water%202%20v1.3.0.8%20%28APPX%29.zip&file=Disney.WheresMyWater2_1.3.0.8_x86__6rarf9sa4v8jt.Appx"
   }
 ]
