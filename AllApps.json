@@ -515,5 +515,53 @@
         "architecture": "x64, x86, ARM, ARM64"
       }
     }
+  },
+  {
+    "name": "Farming Simulator 16",
+    "version": "1.1.2.8",
+    "category": "Games",
+    "description": "Manage your own farm and drive massive machines in an open world!\n\nFarming Simulator 16 allows you to manage your own realistic farm in extraordinary detail. Plant, grow, harvest, and sell five different crops, raise cows and sheep, and sell timber at your own pace. Buy new fields to expand your farm land. Take direct control of harvesters and tractors, or hire AI helps and manage your growing farm from the full screen management map.\n\nAs the newest in the series of Farming Simulator games, this game has the best of agriculture simulation. The game features massive tractors and other machines from over 20 brands of agricultural manufacturers, including New Holland, Case IH, Ponsse, Lamborghini, Horsch, Krone, Amazone, MAN and more.",
+    "logo": "https://store-images.s-microsoft.com/image/apps.3302.13510798886401705.b38fae70-a83e-48e2-ab24-84767975f09d.4b21788e-eabb-42b5-9fdb-8f9e1907ce1f?h=102",
+    "screenshots": [
+      "https://store-images.s-microsoft.com/image/apps.41328.13510798886401705.ae9d3d36-9653-4cb6-86d3-b42d81c3e4f0.1485d69b-a2b8-467a-bcc3-b58c051f24f8?h=253",
+      "https://store-images.s-microsoft.com/image/apps.35327.13510798886401705.89672fe7-316a-48e0-a602-5fa4881bf7f3.d8eada59-8e26-49af-b4e7-3f65ac44a91c?h=253",
+      "https://store-images.s-microsoft.com/image/apps.38786.13510798886401705.834f497d-37b7-41a4-867a-614059fa0748.7dc1ea05-292d-4fe1-81a0-8f2a8e848919?h=253",
+      "https://store-images.s-microsoft.com/image/apps.26759.13510798886401705.3305d674-70e2-48c0-91ec-71b0a63d4a04.2b44f10d-4332-4417-813a-93659a9bda35?h=253",
+      "https://store-images.s-microsoft.com/image/apps.28370.13510798886401705.32ba2b75-ea41-4c0f-94ae-34e368b1bafa.76d62dfb-0ba5-4cf1-9a02-e0abbda1e31c?h=253"
+    ],
+    "downloadLink": "https://archive.org/download/FarmingSimulator16Win8/GIANTSSoftware.FarmingSimulator16_fa8jxm5fj0esw.zip/GIANTSSoftware.FarmingSimulator16_2016.623.848.0_neutral_~_fa8jxm5fj0esw.AppxBundle",
+    "whatsNew": "Windows 8.1 and 10 only: Savegame stability bugfixes",
+    "features": [
+      "New 3D graphics show even more detail on your machinery!  Plant and harvest five different crops: Wheat, canola, corn, sugar beet and potatoes  Sell your crops in a dynamic market  Use realistic tractors and trucks from some of the biggest agriculture machine makers  Feed your cows and sheep to produce and sell milk and wool  Forestry has gone mobile! Harvest wood with dedicated machinery and sell the timber  Manage AI helpers for better results  Play with a friend in local multiplayer mode for WiFi"
+    ],
+    "thisAppCan": [
+      "Access your Internet connection",
+      "Access your Internet connection and act as a server.",
+      "Access your home or work networks"
+    ],
+    "additionalInfo": {
+      "publishedBy": "GIANTS Software",
+      "copyright": "© 2015 GIANTS Software GmbH. All Rights Reserved. All other trademarks are properties of their respective owners.",
+      "developedBy": "GIANTS Software",
+      "releaseDate": "08/10/2015",
+      "approximateSize": "126.1 MB",
+      "ageRating": "3+",
+      "installation": "Install on a Windows PC plus have access when you’re connected to your Microsoft account",
+      "languagesSupported": "Chinese (Simplified) English English (United States) French German Italian Japanese Korean Portuguese Russian Spanish",
+      "publisherInfo": "support@giants-software.com ,http://www.farming-simulator.com/ ,+49 91319279352 ,Meierhofweg 5, Buchberg, Schaffhausen, 8454, CH",
+      "additionalTerms": "http://www.farming-simulator.com/privacyPolicy.php",
+      "reportThisProduct": "https://support.xbox.com/en-US/help/family-online-safety/online-safety/report-issue-in-microsoft-store, https://aka.ms/reportconcerns?productgroup=store-web&content=https%3A%2F%2Fapps.microsoft.com%2Fdetail%2F9nblggh5xhtn%3Fhl%3Den-GB%26gl%3DEG",
+      "legalDisclaimer": "This seller has certified that it will only offer products or services that comply with EU laws."
+    },
+    "systemRequirements": {
+      "minimum": {
+        "os": "Windows 8",
+        "architecture": "x64, x86, ARM, ARM64"
+      },
+      "recommended": {
+        "os": "Windows 10",
+        "architecture": "ARM, x86, x64, ARM64"
+      }
+    }
   }
 ]
