@@ -529,7 +529,7 @@
       "https://store-images.s-microsoft.com/image/apps.26759.13510798886401705.3305d674-70e2-48c0-91ec-71b0a63d4a04.2b44f10d-4332-4417-813a-93659a9bda35?h=253",
       "https://store-images.s-microsoft.com/image/apps.28370.13510798886401705.32ba2b75-ea41-4c0f-94ae-34e368b1bafa.76d62dfb-0ba5-4cf1-9a02-e0abbda1e31c?h=253"
     ],
-    "downloadLink": "https://archive.org/download/FarmingSimulator16Win8/GIANTSSoftware.FarmingSimulator16_fa8jxm5fj0esw.zip/GIANTSSoftware.FarmingSimulator16_2016.623.848.0_neutral_~_fa8jxm5fj0esw.AppxBundle",
+    "downloadLink": "https://ia801009.us.archive.org/view_archive.php?archive=/30/items/FarmingSimulator16Win8/GIANTSSoftware.FarmingSimulator16_fa8jxm5fj0esw.zip&file=GIANTSSoftware.FarmingSimulator16_2016.623.848.0_neutral_~_fa8jxm5fj0esw.AppxBundle",
     "whatsNew": "Windows 8.1 and 10 only: Savegame stability bugfixes",
     "features": [
       "New 3D graphics show even more detail on your machinery!  Plant and harvest five different crops: Wheat, canola, corn, sugar beet and potatoes  Sell your crops in a dynamic market  Use realistic tractors and trucks from some of the biggest agriculture machine makers  Feed your cows and sheep to produce and sell milk and wool  Forestry has gone mobile! Harvest wood with dedicated machinery and sell the timber  Manage AI helpers for better results  Play with a friend in local multiplayer mode for WiFi"
@@ -555,12 +555,10 @@
     },
     "systemRequirements": {
       "minimum": {
-        "os": "Windows 8",
-        "architecture": "x64, x86, ARM, ARM64"
+        "os": "Windows 8"
       },
       "recommended": {
-        "os": "Windows 10",
-        "architecture": "ARM, x86, x64, ARM64"
+        "os": "Windows 10"
       }
     }
   }
