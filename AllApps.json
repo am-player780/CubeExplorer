@@ -395,6 +395,7 @@
     "category": "Games",
     "description": "JOIN THE ANGRY BIRDS IN THEIR BIGGEST ADVENTURE YET!\n\nA long time ago in a galaxy far, far away... a group of desperate rebel birds faced off against a galactic menace: the Empire’s evil Pigtroopers!\n\nRebel birds, striking from a hidden base, have won their first victory against the evil Imperial Pigs. During the battle, Rebel spies managed to steal secret plans to the Empire’s ultimate weapon, the PIG STAR, and are racing to deliver the plans to the rebel birds. Now they need your help!\n\nJoin an epic adventure with the Angry Birds in the legendary Star Wars universe! Use the Force, wield your lightsaber, and blast away Pigtroopers on an intergalactic journey from the deserts of Tatooine to the depths of the Pig Star -- where you’ll face off against the terrifying Darth Vader! Can you become a Jedi master and restore freedom to the galaxy?\n\nTime to grab your lightsaber and join the adventure! May the birds be with you!\n\nJoin the final battle against the Pig Empire in the exciting conclusion to Angry Birds Star Wars! Play 30 NEW levels and enter the Death Star for an epic showdown with Lard Vader and the Emperor!\n\nNEW LEVELS! 15 space battles featuring a massive Imperial Star Destroyer, plus a final 15 Death Star levels to become a true Jedi Master!\n\nBIGGEST EVER BOSS FIGHT! Use your Jedi skills to defeat the fearsome Lard Vader and Emperor!\n\nLARD VADER UNMASKED! Find out who’s behind the mask in the big finale!\n\nFollow @angrybirds on Twitter\n\nWatch the videos, read the comics and submit fan art at angrybirds.com/starwars\n\nLike us at facebook.com/angrybirds and say hello!\n\nTerms of Use: http://www.rovio.com/eula \n\nPrivacy Policy: http://www.rovio.com/privacy\n\nsupport@rovio.com\n\nLucasArts, the LucasArts logo, and STAR WARS are registered trademarks of Lucasfilm Ltd. © 2012 Lucasfilm Entertainment Company Ltd. or Lucasfilm Ltd. and ® or ™ as indicated. All rights reserved. Angry Birds and the Angry Birds logo are trademarks of Rovio Entertainment Ltd. © 2012 Rovio Entertainment Ltd.\n\nImportant Message for Parents\n\nThis game may include:\n- Direct links to social networking websites that are intended for an audience over the age of 13.\n- Direct links to the internet that can take players away from the game with the potential to browse any web page.\n- Advertising of Rovio products and also products from select partners.\n- The option to make in-app purchases. The bill payer should always be consulted beforehand.",
     "logo": "https://archive.org/download/angry-birds-star-wars-for-win-8/Logo.png",
+    "wideLogo": "https://archive.org/download/angry-birds-star-wars-for-win-8/WideLogo.scale-100.png",
     "screenshots": [
       "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.22179.9007199266245274.60ce5676-f4f9-4e19-82ad-14b8977add6a.4c1e064e-1787-4fd6-a323-174c465cacd2?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
       "https://web.archive.org/web/2im_/https://store-images.microsoft.com/image/apps.1936.9007199266245274.988fa2ef-3225-44ae-92a5-aae349362085.d742e544-d4a3-48db-83b3-6d48ce40a914?w=672&h=378&q=80&mode=letterbox&background=%23FFE4E4E4&format=jpg",
@@ -429,11 +430,11 @@
     "systemRequirements": {
       "minimum": {
         "os": "Windows 8",
-        "architecture": "ARM, x86"
+        "architecture": "x86"
       },
       "recommended": {
         "os": "Windows 8",
-        "architecture": "ARM, x86"
+        "architecture": "x86"
       }
     }
   },
