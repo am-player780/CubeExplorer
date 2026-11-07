@@ -490,16 +490,15 @@
     "category": "Games",
     "description": "Join legendary platforming hero Rayman for a new adventure on your favorite mobile device!\n\nIf you enjoyed Rayman Jungle Run, winner of the App Store’s BEST of 2012, you will love Rayman Fiesta Run and its new wacky Fiesta world! Lunge for cocktail umbrellas, leap on limes and punch those piñatas…the sky’s the limit!\n\nPARTY ALL NIGHT LONG\n* More than 75 levels welcome you for the Fiesta!\n* Bounce on sausages and make your way through 4 new festive worlds\n* Beat all 3 new epic bosses to reach the dreaded Land of the Livid Dead Island!\n* Collect Lums to get awesome rewards and power-ups\n\nDISCOVER RAYMAN'S AMAZING NEW POWERS\n* Rayman could jump, fly, punch and run up the walls…\n* …he can now slide, swim or shrink on the fly into a tiny hero\n* Unleash the power of the Super Punch!\n\nBEWARE OF THE INVASION!\n* Play all the levels you thought you knew in a totally different way\n* Avoid new traps and defeat even fiercer enemies\n* Get ready for more great challenges!\n\nENJOY GORGEOUS GRAPHICS\n* Rayman Jungle Run was pretty… Rayman Fiesta Run looks absolutely delicious!\n* Immerse yourself into the Fiesta thanks to the increased depth of field\n* And if you like great lightings, Rayman has put a brand new disco ball up for you!\n\nCHALLENGE YOUR FRIENDS\nShare your activities, post your achievements on Facebook, and follow your friends on the world map.\n\nThis game can be downloaded over the air, no Wi-Fi needed to play!",
     "logo": "https://archive.org/download/ubisoft-entertainment.-rayman-fiesta-run-preload-edition-2014.408.1427.121-neutral-dbgk-1hhpxymar/apps.23052.9007199266403788.2d270d99-9330-49d9-aa7c-8d06e0b2ee17.png",
+    "wideLogo": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/rayman-fiesta-run/3/3d/Rayman-Fiesta-Run-Featured.jpg?width=2240",
     "screenshots": [],
     "downloadLink": "https://ia600107.us.archive.org/view_archive.php?archive=/24/items/ubisoft-entertainment.-rayman-fiesta-run-preload-edition-2014.408.1427.121-neutral-dbgk-1hhpxymar/UbisoftEntertainment.RaymanFiestaRunPreloadEdition_2014.408.1427.121_neutral_~_dbgk1hhpxymar.rar&file=UbisoftEntertainment.RaymanFiestaRunPreloadEdition_2014.408.1427.121_neutral_~_dbgk1hhpxymar.AppxBundle",
     "systemRequirements": {
       "minimum": {
-        "os": "Windows 8",
-        "architecture": "x86, ARM, ARM64, x64"
+        "os": "Windows 8"
       },
       "recommended": {
-        "os": "Windows 8.1",
-        "architecture": "x64, x86, ARM, ARM64"
+        "os": "Windows 8.1"
       }
     }
   },
@@ -509,6 +508,7 @@
     "category": "Games",
     "description": "Manage your own farm and drive massive machines in an open world!\n\nFarming Simulator 16 allows you to manage your own realistic farm in extraordinary detail. Plant, grow, harvest, and sell five different crops, raise cows and sheep, and sell timber at your own pace. Buy new fields to expand your farm land. Take direct control of harvesters and tractors, or hire AI helps and manage your growing farm from the full screen management map.\n\nAs the newest in the series of Farming Simulator games, this game has the best of agriculture simulation. The game features massive tractors and other machines from over 20 brands of agricultural manufacturers, including New Holland, Case IH, Ponsse, Lamborghini, Horsch, Krone, Amazone, MAN and more.",
     "logo": "https://store-images.s-microsoft.com/image/apps.3302.13510798886401705.b38fae70-a83e-48e2-ab24-84767975f09d.4b21788e-eabb-42b5-9fdb-8f9e1907ce1f?h=102",
+    "wideLogo": "https://archive.org/download/FarmingSimulator16Win8/fs16_feat.png",
     "screenshots": [
       "https://store-images.s-microsoft.com/image/apps.41328.13510798886401705.ae9d3d36-9653-4cb6-86d3-b42d81c3e4f0.1485d69b-a2b8-467a-bcc3-b58c051f24f8?h=253",
       "https://store-images.s-microsoft.com/image/apps.35327.13510798886401705.89672fe7-316a-48e0-a602-5fa4881bf7f3.d8eada59-8e26-49af-b4e7-3f65ac44a91c?h=253",
